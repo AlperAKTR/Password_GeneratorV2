@@ -1,6 +1,6 @@
-** Password Generator **
+** Password Generator V2 **
 ---------------------------
-A simple Python program that creates random, secure passwords based on user-selected criteria.
+A simple Python program that creates random, secure passwords based on user-selected criteria. (this program is V2 of password_generator.py)
 
 Features
 ---------------------------
